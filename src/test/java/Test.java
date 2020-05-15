@@ -1,7 +1,7 @@
 public class Test {
 
     @org.junit.Test
-    void test(){
+    public void test(){
         System.out.println("hello tested");
     }
 }
